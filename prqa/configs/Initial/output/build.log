@@ -1,0 +1,211 @@
+[
+    {
+        "arguments": [
+            "cl.exe",
+            "-Idiff\\hdr",
+            "-IC:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+            "-DWIN32",
+            "-D_DEBUG",
+            "-D_LIB",
+            "-D__MSVC_RUNTIME_CHECKS"
+        ],
+        "directory": "C:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+        "file": "diff\\alloca.c",
+        "target": "C"
+    },
+    {
+        "arguments": [
+            "cl.exe",
+            "-Idiff\\hdr",
+            "-IC:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+            "-DWIN32",
+            "-D_DEBUG",
+            "-D_LIB",
+            "-D__MSVC_RUNTIME_CHECKS"
+        ],
+        "directory": "C:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+        "file": "diff\\analyze.c",
+        "target": "C"
+    },
+    {
+        "arguments": [
+            "cl.exe",
+            "-Idiff\\hdr",
+            "-IC:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+            "-DWIN32",
+            "-D_DEBUG",
+            "-D_LIB",
+            "-D__MSVC_RUNTIME_CHECKS"
+        ],
+        "directory": "C:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+        "file": "diff\\context.c",
+        "target": "C"
+    },
+    {
+        "arguments": [
+            "cl.exe",
+            "-Idiff\\hdr",
+            "-IC:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+            "-DWIN32",
+            "-D_DEBUG",
+            "-D_LIB",
+            "-D__MSVC_RUNTIME_CHECKS"
+        ],
+        "directory": "C:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+        "file": "diff\\diff.c",
+        "target": "C"
+    },
+    {
+        "arguments": [
+            "cl.exe",
+            "-Idiff\\hdr",
+            "-IC:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+            "-DWIN32",
+            "-D_DEBUG",
+            "-D_LIB",
+            "-D__MSVC_RUNTIME_CHECKS"
+        ],
+        "directory": "C:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+        "file": "diff\\diff3.c",
+        "target": "C"
+    },
+    {
+        "arguments": [
+            "cl.exe",
+            "-Idiff\\hdr",
+            "-IC:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+            "-DWIN32",
+            "-D_DEBUG",
+            "-D_LIB",
+            "-D__MSVC_RUNTIME_CHECKS"
+        ],
+        "directory": "C:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+        "file": "diff\\dir.c",
+        "target": "C"
+    },
+    {
+        "arguments": [
+            "cl.exe",
+            "-Idiff\\hdr",
+            "-IC:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+            "-DWIN32",
+            "-D_DEBUG",
+            "-D_LIB",
+            "-D__MSVC_RUNTIME_CHECKS"
+        ],
+        "directory": "C:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+        "file": "diff\\ed.c",
+        "target": "C"
+    },
+    {
+        "arguments": [
+            "cl.exe",
+            "-Idiff\\hdr",
+            "-IC:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+            "-DWIN32",
+            "-D_DEBUG",
+            "-D_LIB",
+            "-D__MSVC_RUNTIME_CHECKS"
+        ],
+        "directory": "C:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+        "file": "diff\\getopt.c",
+        "target": "C"
+    },
+    {
+        "arguments": [
+            "cl.exe",
+            "-Idiff\\hdr",
+            "-IC:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+            "-DWIN32",
+            "-D_DEBUG",
+            "-D_LIB",
+            "-D__MSVC_RUNTIME_CHECKS"
+        ],
+        "directory": "C:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+        "file": "diff\\getopt1.c",
+        "target": "C"
+    },
+    {
+        "arguments": [
+            "cl.exe",
+            "-Idiff\\hdr",
+            "-IC:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+            "-DWIN32",
+            "-D_DEBUG",
+            "-D_LIB",
+            "-D__MSVC_RUNTIME_CHECKS"
+        ],
+        "directory": "C:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+        "file": "diff\\ifdef.c",
+        "target": "C"
+    },
+    {
+        "arguments": [
+            "cl.exe",
+            "-Idiff\\hdr",
+            "-IC:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+            "-DWIN32",
+            "-D_DEBUG",
+            "-D_LIB",
+            "-D__MSVC_RUNTIME_CHECKS"
+        ],
+        "directory": "C:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+        "file": "diff\\io.c",
+        "target": "C"
+    },
+    {
+        "arguments": [
+            "cl.exe",
+            "-Idiff\\hdr",
+            "-IC:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+            "-DWIN32",
+            "-D_DEBUG",
+            "-D_LIB",
+            "-D__MSVC_RUNTIME_CHECKS"
+        ],
+        "directory": "C:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+        "file": "diff\\normal.c",
+        "target": "C"
+    },
+    {
+        "arguments": [
+            "cl.exe",
+            "-Idiff\\hdr",
+            "-IC:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+            "-DWIN32",
+            "-D_DEBUG",
+            "-D_LIB",
+            "-D__MSVC_RUNTIME_CHECKS"
+        ],
+        "directory": "C:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+        "file": "diff\\util.c",
+        "target": "C"
+    },
+    {
+        "arguments": [
+            "cl.exe",
+            "-Idiff\\hdr",
+            "-IC:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+            "-DWIN32",
+            "-D_DEBUG",
+            "-D_LIB",
+            "-D__MSVC_RUNTIME_CHECKS"
+        ],
+        "directory": "C:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+        "file": "diff\\version.c",
+        "target": "C"
+    },
+    {
+        "arguments": [
+            "cl.exe",
+            "-IC:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+            "-DWIN32",
+            "-D_DEBUG",
+            "-D_LIB",
+            "-D__MSVC_RUNTIME_CHECKS"
+        ],
+        "directory": "C:\\Users\\MDSIT\\Desktop\\sample_VS19x86\\src",
+        "file": "diff\\ecu.c",
+        "target": "C"
+    }
+]

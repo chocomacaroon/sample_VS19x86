@@ -1,0 +1,160 @@
+﻿  alloca.c
+  analyze.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\hdr\diff.h(26,39): warning C4273: 'fdopen': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(2431,86): message : 'fdopen'의 이전 정의를 참조하십시오.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\hdr\diff.h(71,22): warning C4273: '_errno': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\errno.h(23,27): message : '_errno'의 이전 정의를 참조하십시오.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(276,10): warning C4013: 'abort'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(332,9): warning C4013: 'bzero'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(336,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(338,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(373,20): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(401,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(410,17): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(421,14): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(441,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(454,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(472,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(737,23): warning C4013: 'read_files'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(747,16): warning C4013: 'bcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  context.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\hdr\diff.h(26,39): warning C4273: 'fdopen': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(2431,86): message : 'fdopen'의 이전 정의를 참조하십시오.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\hdr\diff.h(71,22): warning C4273: '_errno': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\errno.h(23,27): message : '_errno'의 이전 정의를 참조하십시오.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\context.c(46,58): warning C4013: 'ctime'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\context.c(46,23): warning C4477: 'fprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int'입니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\context.c(261,7): warning C4101: 'lastline' :참조되지 않은 지역 변수입니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\context.c(369,8): warning C4013: 'abort'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  diff.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\hdr\diff.h(26,39): warning C4273: 'fdopen': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(2431,86): message : 'fdopen'의 이전 정의를 참조하십시오.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\hdr\diff.h(71,22): warning C4273: '_errno': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\errno.h(23,27): message : '_errno'의 이전 정의를 참조하십시오.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(56,22): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(63,14): warning C4013: 'strcat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(208,23): warning C4013: 'atoi'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(214,18): warning C4013: 'specify_style'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(354,10): warning C4013: 'usage'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(392,23): warning C4013: 'compare_files'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(399,8): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(471,13): warning C4013: 'bzero'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(480,13): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(481,15): warning C4013: 'stat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(482,16): warning C4013: 'fstat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(530,23): warning C4013: 'open'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(564,20): warning C4013: 'diff_dirs'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(610,25): warning C4013: 'diff_2_files'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(659,11): warning C4013: 'close'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  diff3.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(262,22): warning C4013: 'getopt'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(326,20): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(327,15): warning C4013: 'fatal'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(348,16): warning C4013: 'stat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(349,26): warning C4013: 'perror_with_exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(354,16): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(368,13): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(856,34): warning C4013: 'bcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(894,13): warning C4013: 'bzero'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1040,23): warning C4013: 'strncmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1192,12): warning C4013: 'pipe'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1195,15): warning C4013: 'vfork'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1199,13): warning C4013: 'close'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1202,16): warning C4013: 'dup2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1205,14): warning C4013: 'execve'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1207,13): warning C4013: 'write'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1207,52): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1209,13): warning C4013: '_exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1220,20): warning C4013: 'myread'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1234,19): warning C4013: 'wait'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1200,21): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1202,25): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1207,14): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1208,14): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1650,21): warning C4013: 'read'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1660,34): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1671,35): warning C4013: 'realloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  dir.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\hdr\diff.h(26,39): warning C4273: 'fdopen': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(2431,86): message : 'fdopen'의 이전 정의를 참조하십시오.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\hdr\diff.h(71,22): warning C4273: '_errno': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\errno.h(23,27): message : '_errno'의 이전 정의를 참조하십시오.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\dir.c(98,9): warning C4013: 'qsort'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\dir.c(113,17): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ed.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\hdr\diff.h(26,39): warning C4273: 'fdopen': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(2431,86): message : 'fdopen'의 이전 정의를 참조하십시오.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\hdr\diff.h(71,22): warning C4273: '_errno': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\errno.h(23,27): message : '_errno'의 이전 정의를 참조하십시오.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\ed.c(61,43): warning C4013: 'change_letter'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\ed.c(73,39): warning C4013: 'translate_line_number'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  getopt.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\getopt.c(315,37): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\getopt.c(377,15): warning C4013: 'strncmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\getopt.c(379,33): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  getopt1.c
+  ifdef.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\hdr\diff.h(26,39): warning C4273: 'fdopen': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(2431,86): message : 'fdopen'의 이전 정의를 참조하십시오.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\hdr\diff.h(71,22): warning C4273: '_errno': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\errno.h(23,27): message : '_errno'의 이전 정의를 참조하십시오.
+  io.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\hdr\diff.h(26,39): warning C4273: 'fdopen': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(2431,86): message : 'fdopen'의 이전 정의를 참조하십시오.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\hdr\diff.h(71,22): warning C4273: '_errno': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\errno.h(23,27): message : '_errno'의 이전 정의를 참조하십시오.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\io.c(109,9): warning C4013: 'read'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\io.c(219,8): warning C4554: '>>': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\io.c(221,8): warning C4554: '>>': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\io.c(234,8): warning C4554: '>>': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\io.c(238,13): warning C4554: '>>': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\io.c(240,13): warning C4554: '>>': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\io.c(247,13): warning C4554: '>>': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\io.c(249,13): warning C4554: '>>': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\io.c(259,13): warning C4554: '>>': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\io.c(271,8): warning C4554: '>>': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\io.c(274,11): warning C4554: '>>': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\io.c(280,11): warning C4554: '>>': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\io.c(560,17): warning C4013: 'line_cmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\io.c(615,9): warning C4013: 'bzero'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  normal.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\hdr\diff.h(26,39): warning C4273: 'fdopen': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(2431,86): message : 'fdopen'의 이전 정의를 참조하십시오.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\hdr\diff.h(71,22): warning C4273: '_errno': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\errno.h(23,27): message : '_errno'의 이전 정의를 참조하십시오.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\normal.c(55,41): warning C4013: 'change_letter'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  util.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\hdr\diff.h(26,39): warning C4273: 'fdopen': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(2431,86): message : 'fdopen'의 이전 정의를 참조하십시오.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\hdr\diff.h(71,22): warning C4273: '_errno': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\errno.h(23,27): message : '_errno'의 이전 정의를 참조하십시오.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(42,8): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(122,35): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(125,10): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(126,10): warning C4013: 'strcat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(138,16): warning C4013: 'pipe'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(143,20): warning C4013: 'vfork'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(149,10): warning C4013: 'close'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(152,17): warning C4013: 'dup2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(157,14): warning C4013: 'execl'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(150,20): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(152,28): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(163,14): warning C4996: 'fdopen': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fdopen. See online help for details.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(191,12): warning C4013: 'wait'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(536,20): warning C4013: 're_search'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(578,27): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(597,28): warning C4013: 'realloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  version.c
+  코드를 생성하고 있습니다...
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1682): warning C4716: 'fatal': 값을 반환해야 합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1689): warning C4716: 'perror_with_exit': 값을 반환해야 합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(405): warning C4716: 'usage': 값을 반환해야 합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(414): warning C4716: 'specify_style': 값을 반환해야 합니다.
+  ecu.c
+diff3.obj : warning LNK4006: _xmalloc이(가) util.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+diff3.obj : warning LNK4006: _xrealloc이(가) util.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+diff3.obj : warning LNK4006: _main이(가) ecu.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+diff3.obj : warning LNK4006: _fatal이(가) util.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+diff.obj : warning LNK4006: _main이(가) ecu.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+diff.obj : warning LNK4006: _usage이(가) diff3.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+  sample_cgicc_diff-VS2019.vcxproj -> C:\Users\MDSIT\Desktop\sample_VS19x86\src\Debug\sample_cgicc_diff-VS2019.lib

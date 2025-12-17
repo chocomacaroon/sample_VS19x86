@@ -1,0 +1,32 @@
+{
+"file": "C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/hdr/diff.h",
+"includes": [
+{"path": "C:/Program Files (x86)/Windows Kits/10/Include/10.0.19041.0/ucrt/ctype.h", "line": 21, "is_system": false},
+{"path": "C:/Program Files (x86)/Windows Kits/10/Include/10.0.19041.0/ucrt/errno.h", "line": 70, "is_system": false},
+{"path": "C:/Program Files (x86)/Windows Kits/10/Include/10.0.19041.0/ucrt/stdio.h", "line": 22, "is_system": false},
+{"path": "C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/hdr/sys/dir.h", "line": 45, "is_system": false},
+{"path": "C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/hdr/sys/file.h", "line": 46, "is_system": false},
+{"path": "C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/hdr/sys/stat.h", "line": 24, "is_system": false},
+{"path": "C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/hdr/sys/time.h", "line": 44, "is_system": false},
+{"path": "C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/hdr/sys/types.h", "line": 23, "is_system": false}],
+"entities": [
+{"type": "class",
+"name": "change",
+"line": 229,
+"metrics": {"STCB1": "0", "STCB2": "0", "STCBO": "0", "STLCM": "0", "STNOC": "0", "STRFC": "0", "STWMC": "0"}},
+{"type": "class",
+"name": "file_data",
+"line": 251,
+"metrics": {"STCB1": "0", "STCB2": "0", "STCBO": "0", "STLCM": "0", "STNOC": "0", "STRFC": "0", "STWMC": "0"}},
+{"type": "class",
+"name": "line_def",
+"line": 243,
+"metrics": {"STCB1": "0", "STCB2": "0", "STCBO": "0", "STLCM": "0", "STNOC": "0", "STRFC": "0", "STWMC": "0"}},
+{"type": "class",
+"name": "msg",
+"line": 328,
+"metrics": {"STCB1": "0", "STCB2": "0", "STCBO": "0", "STLCM": "0", "STNOC": "0", "STRFC": "0", "STWMC": "0"}},
+{"type": "class",
+"name": "output_style",
+"line": 111}]
+}

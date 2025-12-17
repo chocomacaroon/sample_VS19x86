@@ -1,0 +1,2 @@
+C:\Perforce\Helix-QAC-2025.1\samples\sample_VS19x86\src\Debug\sample_cgicc_diff-VS2019.lib
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\Debug\sample_cgicc_diff-VS2019.lib

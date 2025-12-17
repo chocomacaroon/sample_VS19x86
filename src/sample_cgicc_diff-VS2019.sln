@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sample_cgicc_diff-VS2019", "sample_cgicc_diff-VS2019.vcxproj", "{725622D0-DF46-41BA-910F-529E6FDFDAC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{725622D0-DF46-41BA-910F-529E6FDFDAC1}.Debug|x86.ActiveCfg = Debug|Win32
+		{725622D0-DF46-41BA-910F-529E6FDFDAC1}.Debug|x86.Build.0 = Debug|Win32
+		{725622D0-DF46-41BA-910F-529E6FDFDAC1}.Release|x86.ActiveCfg = Release|Win32
+		{725622D0-DF46-41BA-910F-529E6FDFDAC1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFB3C44D-67EE-4E55-97C8-376274310AA2}
+	EndGlobalSection
+EndGlobal

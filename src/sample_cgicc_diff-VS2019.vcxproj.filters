@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="diff">
+      <UniqueIdentifier>{f105e0db-6972-4327-8517-f025059a36b3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="diff\alloca.c">
+      <Filter>diff</Filter>
+    </ClCompile>
+    <ClCompile Include="diff\analyze.c">
+      <Filter>diff</Filter>
+    </ClCompile>
+    <ClCompile Include="diff\context.c">
+      <Filter>diff</Filter>
+    </ClCompile>
+    <ClCompile Include="diff\diff.c">
+      <Filter>diff</Filter>
+    </ClCompile>
+    <ClCompile Include="diff\diff3.c">
+      <Filter>diff</Filter>
+    </ClCompile>
+    <ClCompile Include="diff\dir.c">
+      <Filter>diff</Filter>
+    </ClCompile>
+    <ClCompile Include="diff\ed.c">
+      <Filter>diff</Filter>
+    </ClCompile>
+    <ClCompile Include="diff\getopt.c">
+      <Filter>diff</Filter>
+    </ClCompile>
+    <ClCompile Include="diff\getopt1.c">
+      <Filter>diff</Filter>
+    </ClCompile>
+    <ClCompile Include="diff\ifdef.c">
+      <Filter>diff</Filter>
+    </ClCompile>
+    <ClCompile Include="diff\io.c">
+      <Filter>diff</Filter>
+    </ClCompile>
+    <ClCompile Include="diff\normal.c">
+      <Filter>diff</Filter>
+    </ClCompile>
+    <ClCompile Include="diff\util.c">
+      <Filter>diff</Filter>
+    </ClCompile>
+    <ClCompile Include="diff\version.c">
+      <Filter>diff</Filter>
+    </ClCompile>
+    <ClCompile Include="diff\ecu.c">
+      <Filter>diff</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
