@@ -1,4 +1,4 @@
-/*
+/*  
         alloca -- (mostly) portable public-domain implementation -- D A Gwyn
 
         last edit:      86/05/30        rms
