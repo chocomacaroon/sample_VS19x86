@@ -326,7 +326,7 @@ main (argc, argv)
 	  /* Expand tabs to spaces in the output so that it preserves
 	     the alignment of the input files.  */
 	  tab_expand_flag = 1;
-	  break;
+	  break; 
 
 	case 'T':
 	  /* Use a tab in the output, rather than a space, before the
