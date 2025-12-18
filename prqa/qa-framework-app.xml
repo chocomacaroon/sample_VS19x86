@@ -13,7 +13,7 @@
  <setting name="sync_optimize" value="no"/>
  <setting name="sync_run_analysis" value="no"/>
  <setting name="sync_target" value=""/>
- <setting name="sync_type" value="INJECT"/>
+ <setting name="sync_type" value="MONITOR"/>
  <setting name="sync_working_directory" value=""/>
  <component_directories/>
  <root_paths/>

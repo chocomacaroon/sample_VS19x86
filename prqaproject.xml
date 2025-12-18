@@ -77,11 +77,17 @@
     <define name="WIN32"/>
     <define name="_DEBUG"/>
     <define name="_LIB"/>
-    <define name="__MSVC_RUNTIME_CHECKS"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
    </defines>
    <includes>
     <include path="${SOURCE_ROOT}/src/diff/hdr"/>
-    <include path="${SOURCE_ROOT}/src"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
    </includes>
   </file>
   <file folder="${SOURCE_ROOT}/src/diff" name="analyze.c" target="C">
@@ -89,11 +95,17 @@
     <define name="WIN32"/>
     <define name="_DEBUG"/>
     <define name="_LIB"/>
-    <define name="__MSVC_RUNTIME_CHECKS"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
    </defines>
    <includes>
     <include path="${SOURCE_ROOT}/src/diff/hdr"/>
-    <include path="${SOURCE_ROOT}/src"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
    </includes>
   </file>
   <file folder="${SOURCE_ROOT}/src/diff" name="context.c" target="C">
@@ -101,11 +113,17 @@
     <define name="WIN32"/>
     <define name="_DEBUG"/>
     <define name="_LIB"/>
-    <define name="__MSVC_RUNTIME_CHECKS"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
    </defines>
    <includes>
     <include path="${SOURCE_ROOT}/src/diff/hdr"/>
-    <include path="${SOURCE_ROOT}/src"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
    </includes>
   </file>
   <file folder="${SOURCE_ROOT}/src/diff" name="diff.c" target="C">
@@ -133,11 +151,17 @@
     <define name="WIN32"/>
     <define name="_DEBUG"/>
     <define name="_LIB"/>
-    <define name="__MSVC_RUNTIME_CHECKS"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
    </defines>
    <includes>
     <include path="${SOURCE_ROOT}/src/diff/hdr"/>
-    <include path="${SOURCE_ROOT}/src"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
    </includes>
   </file>
   <file folder="${SOURCE_ROOT}/src/diff" name="dir.c" target="C">
@@ -145,11 +169,17 @@
     <define name="WIN32"/>
     <define name="_DEBUG"/>
     <define name="_LIB"/>
-    <define name="__MSVC_RUNTIME_CHECKS"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
    </defines>
    <includes>
     <include path="${SOURCE_ROOT}/src/diff/hdr"/>
-    <include path="${SOURCE_ROOT}/src"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
    </includes>
   </file>
   <file folder="${SOURCE_ROOT}/src/diff" name="ecu.c" target="C">
@@ -157,22 +187,30 @@
     <define name="WIN32"/>
     <define name="_DEBUG"/>
     <define name="_LIB"/>
-    <define name="__MSVC_RUNTIME_CHECKS"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
    </defines>
-   <includes>
-    <include path="${SOURCE_ROOT}/src"/>
-   </includes>
   </file>
   <file folder="${SOURCE_ROOT}/src/diff" name="ed.c" target="C">
    <defines>
     <define name="WIN32"/>
     <define name="_DEBUG"/>
     <define name="_LIB"/>
-    <define name="__MSVC_RUNTIME_CHECKS"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
    </defines>
    <includes>
     <include path="${SOURCE_ROOT}/src/diff/hdr"/>
-    <include path="${SOURCE_ROOT}/src"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
    </includes>
   </file>
   <file folder="${SOURCE_ROOT}/src/diff" name="getopt.c" target="C">
@@ -180,11 +218,17 @@
     <define name="WIN32"/>
     <define name="_DEBUG"/>
     <define name="_LIB"/>
-    <define name="__MSVC_RUNTIME_CHECKS"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
    </defines>
    <includes>
     <include path="${SOURCE_ROOT}/src/diff/hdr"/>
-    <include path="${SOURCE_ROOT}/src"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
    </includes>
   </file>
   <file folder="${SOURCE_ROOT}/src/diff" name="getopt1.c" target="C">
@@ -192,11 +236,17 @@
     <define name="WIN32"/>
     <define name="_DEBUG"/>
     <define name="_LIB"/>
-    <define name="__MSVC_RUNTIME_CHECKS"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
    </defines>
    <includes>
     <include path="${SOURCE_ROOT}/src/diff/hdr"/>
-    <include path="${SOURCE_ROOT}/src"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
    </includes>
   </file>
   <file folder="${SOURCE_ROOT}/src/diff" name="ifdef.c" target="C">
@@ -204,11 +254,17 @@
     <define name="WIN32"/>
     <define name="_DEBUG"/>
     <define name="_LIB"/>
-    <define name="__MSVC_RUNTIME_CHECKS"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
    </defines>
    <includes>
     <include path="${SOURCE_ROOT}/src/diff/hdr"/>
-    <include path="${SOURCE_ROOT}/src"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
    </includes>
   </file>
   <file folder="${SOURCE_ROOT}/src/diff" name="io.c" target="C">
@@ -216,11 +272,17 @@
     <define name="WIN32"/>
     <define name="_DEBUG"/>
     <define name="_LIB"/>
-    <define name="__MSVC_RUNTIME_CHECKS"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
    </defines>
    <includes>
     <include path="${SOURCE_ROOT}/src/diff/hdr"/>
-    <include path="${SOURCE_ROOT}/src"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
    </includes>
   </file>
   <file folder="${SOURCE_ROOT}/src/diff" name="normal.c" target="C">
@@ -228,11 +290,17 @@
     <define name="WIN32"/>
     <define name="_DEBUG"/>
     <define name="_LIB"/>
-    <define name="__MSVC_RUNTIME_CHECKS"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
    </defines>
    <includes>
     <include path="${SOURCE_ROOT}/src/diff/hdr"/>
-    <include path="${SOURCE_ROOT}/src"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
    </includes>
   </file>
   <file folder="${SOURCE_ROOT}/src/diff" name="util.c" target="C">
@@ -240,11 +308,17 @@
     <define name="WIN32"/>
     <define name="_DEBUG"/>
     <define name="_LIB"/>
-    <define name="__MSVC_RUNTIME_CHECKS"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
    </defines>
    <includes>
     <include path="${SOURCE_ROOT}/src/diff/hdr"/>
-    <include path="${SOURCE_ROOT}/src"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
    </includes>
   </file>
   <file folder="${SOURCE_ROOT}/src/diff" name="version.c" target="C">
@@ -252,11 +326,17 @@
     <define name="WIN32"/>
     <define name="_DEBUG"/>
     <define name="_LIB"/>
-    <define name="__MSVC_RUNTIME_CHECKS"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
+    <define name="WIN32"/>
+    <define name="_DEBUG"/>
+    <define name="_LIB"/>
    </defines>
    <includes>
     <include path="${SOURCE_ROOT}/src/diff/hdr"/>
-    <include path="${SOURCE_ROOT}/src"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
+    <include path="${SOURCE_ROOT}/src/diff/hdr"/>
    </includes>
   </file>
  </files>

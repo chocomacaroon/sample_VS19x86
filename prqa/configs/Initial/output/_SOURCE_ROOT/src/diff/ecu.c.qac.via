@@ -61,12 +61,16 @@ ${HELIX_QAC_SOURCE_ROOT}\src\diff\ecu.c
 * ===[ ACF INCLUDES ]===
 * ===[ PROJECT SETTINGS  ]===
 * ===[ PROJECT INCLUDES ]===
--i ${HELIX_QAC_SOURCE_ROOT}\src
 * ===[ PROJECT DEFINES ]===
 -d "WIN32"
 -d "_DEBUG"
 -d "_LIB"
--d "__MSVC_RUNTIME_CHECKS"
+-d "WIN32"
+-d "_DEBUG"
+-d "_LIB"
+-d "WIN32"
+-d "_DEBUG"
+-d "_LIB"
 * ===[ PROJECT OPTIONS ]===
 * ===[ CCT FILE CONTENT (MS_VS_2019_x86_C.cct) ]===
 *{
@@ -429,6 +433,8 @@ ${HELIX_QAC_SOURCE_ROOT}\src\diff\ecu.c
 -warncall srand=m3cm_5143
 -warnmacroexpansion rand=m3cm_5143
 -warnmacroexpansion srand=m3cm_5143
+* ===[ ACF FILE CONTENT ]===
+-rem "No Preset Selected"
 * ===[ ACTIVE MESSAGES ]===
 -o 0160
 -o 0161

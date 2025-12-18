@@ -6,19 +6,19 @@
  It also contains links to files with additional data for each analyzed file.
  NOTE: The format of this file may change in the next version.
 -->
-<AnalysisData timestamp="20251218T152738" last_analysis_timestamp="20251218T152721" projectpath="C:/Users/MDSIT/Desktop/sample_VS19x86" reportpath="C:/Users/MDSIT/Desktop/sample_VS19x86/prqa/configs/Initial/reports" projectconfig="Initial" helix_qac_version="Helix QAC 2025.1 (English, Japanese)" helix_qac_build="5.0.0-4742-g9af9e575 Mar 17 2025 for Windows 64-bit (Qt 5.15.18)" components="qac-12.0.0,dataflow-2.0.0,mta-5.0.0,rcma-5.0.0,m3cm-6.0.0">
+<AnalysisData timestamp="20251218T161806" last_analysis_timestamp="20251218T161745" projectpath="C:/Users/MDSIT/Desktop/sample_VS19x86" reportpath="C:/Users/MDSIT/Desktop/sample_VS19x86/prqa/configs/Initial/reports" projectconfig="Initial" helix_qac_version="Helix QAC 2025.1 (English, Japanese)" helix_qac_build="5.0.0-4742-g9af9e575 Mar 17 2025 for Windows 64-bit (Qt 5.15.18)" components="qac-12.0.0,qacpp-7.0.0,dataflow-2.0.0,mta-5.0.0,rcma-5.0.0,m3cm-6.0.0">
 <dataroot type="project">
 <tree type="files">
-<Folder status="NoInfo" path="" total="2891" active="2891" basename="Source Files" >
+<Folder status="NoInfo" path="" total="2886" active="2886" basename="Source Files" >
 <File status="FileUpToDate" path="C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/alloca.c" total="36" active="36" basename="alloca.c" languages="C" />
 <File status="FileUpToDate" path="C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/analyze.c" total="399" active="399" basename="analyze.c" languages="C" />
 <File status="FileUpToDate" path="C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/context.c" total="178" active="178" basename="context.c" languages="C" />
 <File status="FileUpToDate" path="C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/diff.c" total="317" active="317" basename="diff.c" languages="C" />
-<File status="FileUpToDate" path="C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/diff3.c" total="727" active="727" basename="diff3.c" languages="C" />
+<File status="FileUpToDate" path="C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/diff3.c" total="726" active="726" basename="diff3.c" languages="C" />
 <File status="FileUpToDate" path="C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/dir.c" total="62" active="62" basename="dir.c" languages="C" />
 <File status="FileUpToDate" path="C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/ecu.c" total="15" active="15" basename="ecu.c" languages="C" />
 <File status="FileUpToDate" path="C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/ed.c" total="86" active="86" basename="ed.c" languages="C" />
-<File status="FileUpToDate" path="C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/getopt.c" total="163" active="163" basename="getopt.c" languages="C" />
+<File status="FileUpToDate" path="C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/getopt.c" total="159" active="159" basename="getopt.c" languages="C" />
 <File status="FileUpToDate" path="C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/getopt1.c" total="8" active="8" basename="getopt1.c" languages="C" />
 <File status="FileUpToDate" path="C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/ifdef.c" total="39" active="39" basename="ifdef.c" languages="C" />
 <File status="FileUpToDate" path="C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/io.c" total="549" active="549" basename="io.c" languages="C" />
@@ -35,8 +35,8 @@
 </Folder>
 </tree>
 <tree type="rules">
-<RuleGroup name="ES95490-10_MISRA-C-2023" enabled="true" total="3014" active="3014" languages="C" >
-<Rule id="M3CM-3" enabled="true" total="709" active="709" text="MISRA Advisory" >
+<RuleGroup name="ES95490-10_MISRA-C-2023" enabled="true" total="3009" active="3009" languages="C" >
+<Rule id="M3CM-3" enabled="true" total="707" active="707" text="MISRA Advisory" >
 <Rule id="Rule-20.1" enabled="true" total="1" active="1" text="#include directives should only be preceded by preprocessor directives or comments" >
 <Message guid="m3cm-6.0.0-5087" total="1" active="1" severity="4" text="5087. Use of #include directive after code fragment." />
 </Rule>
@@ -57,8 +57,8 @@
 <Rule id="Rule-17.8" enabled="true" total="19" active="19" text="A function parameter should not be modified" >
 <Message guid="qac-12.0.0-1338" total="19" active="19" severity="2" text="1338. The parameter '%1s' is being modified." />
 </Rule>
-<Rule id="Rule-15.5" enabled="true" total="25" active="25" text="A function should have a single point of exit at the end" >
-<Message guid="dataflow-2.0.0-2889" total="25" active="25" severity="2" text="2889. This function has more than one 'return' path." />
+<Rule id="Rule-15.5" enabled="true" total="23" active="23" text="A function should have a single point of exit at the end" >
+<Message guid="dataflow-2.0.0-2889" total="23" active="23" severity="2" text="2889. This function has more than one 'return' path." />
 </Rule>
 <Rule id="Rule-2.7" enabled="true" total="3" active="3" text="A function should not contain unused parameters" >
 <Message guid="qac-3206" total="3" active="3" severity="3" text="3206. The parameter '%1s' is not used in this function." />
@@ -129,7 +129,7 @@
 <Message guid="qac-12.0.0-3684" total="1" active="1" severity="2" text="3684. Array declared with unknown size." />
 </Rule>
 </Rule>
-<Rule id="M3CM-1" enabled="true" total="80" active="80" text="MISRA Mandatory" >
+<Rule id="M3CM-1" enabled="true" total="78" active="78" text="MISRA Mandatory" >
 <Rule id="Rule-22.2" enabled="true" total="4" active="4" text="A block of memory shall only be freed if it was allocated by means of a Standard Library function" >
 <Message guid="dataflow-2.0.0-2721" total="4" active="4" severity="5" text="2721. Definite: Deallocation of non dynamic memory (owning pointer: %1s)." />
 </Rule>
@@ -139,15 +139,12 @@
 <Rule id="Rule-17.4" enabled="true" total="2" active="2" text="All exit paths from a function with non-void return type shall have an explicit return statement with an expression" >
 <Message guid="qac-12.0.0-3114" total="2" active="2" severity="5" text="3114. [U] Function '%s()' is implicitly of type 'int' but ends without returning a value." />
 </Rule>
-<Rule id="Rule-21.18" enabled="true" total="1" active="1" text="The size_t argument passed to any function in &lt;string.h&gt; shall have an appropriate value" >
-<Message guid="dataflow-2.0.0-2868" total="1" active="1" severity="2" text="2868. Suspicious: Using 0 as size parameter of a function call." />
-</Rule>
-<Rule id="Rule-9.1" enabled="true" total="6" active="6" text="The value of an object with automatic storage duration shall not be read before it has been set" >
-<Message guid="dataflow-2.0.0-2963" total="5" active="5" severity="4" text="2963. Suspicious: Using value of uninitialized automatic object '%s'." />
+<Rule id="Rule-9.1" enabled="true" total="5" active="5" text="The value of an object with automatic storage duration shall not be read before it has been set" >
+<Message guid="dataflow-2.0.0-2963" total="4" active="4" severity="4" text="2963. Suspicious: Using value of uninitialized automatic object '%s'." />
 <Message guid="dataflow-2.0.0-2966" total="1" active="1" severity="7" text="2966. Definite: Some members of object '%s' are uninitialized." />
 </Rule>
 </Rule>
-<Rule id="M3CM-2" enabled="true" total="2294" active="2294" text="MISRA Required" >
+<Rule id="M3CM-2" enabled="true" total="2293" active="2293" text="MISRA Required" >
 <Rule id="Rule-21.1" enabled="true" total="5" active="5" text="#define and #undef shall not be used on a reserved identifier or reserved macro name" >
 <Message guid="qac-12.0.0-0603" total="1" active="1" severity="7" text="0603. [U] The macro identifier '%1s' is reserved." />
 <Message guid="qac-12.0.0-4600" total="4" active="4" severity="2" text="4600. The macro '%1s' is also defined in '&lt;%2s&gt;'." />
@@ -325,7 +322,7 @@
 <Rule id="Rule-17.7" enabled="true" total="195" active="195" text="The value returned by a function having non-void return type shall be used" >
 <Message guid="qac-12.0.0-3200" total="195" active="195" severity="2" text="3200. '%1s' returns a value which is not being used." />
 </Rule>
-<Rule id="Rule-1.3" enabled="true" total="33" active="33" text="There shall be no occurrence of undefined or critical unspecified behaviour" >
+<Rule id="Rule-1.3" enabled="true" total="32" active="32" text="There shall be no occurrence of undefined or critical unspecified behaviour" >
 <Message guid="qac-12.0.0-0179" total="1" active="1" severity="7" text="0179. [U] Argument type does not match conversion specifier number %1s." />
 <Message guid="qac-12.0.0-0602" total="3" active="3" severity="7" text="0602. [U] The identifier '%1s' is reserved for use by the library." />
 <Message guid="qac-12.0.0-0603" total="1" active="1" severity="7" text="0603. [U] The macro identifier '%1s' is reserved." />
@@ -333,7 +330,6 @@
 <Message guid="qac-12.0.0-1331" total="13" active="13" severity="4" text="1331. Type or number of arguments doesn't match previous use of the function." />
 <Message guid="qac-12.0.0-1333" total="5" active="5" severity="4" text="1333. Type or number of arguments doesn't match function definition found later." />
 <Message guid="dataflow-2.0.0-2804" total="1" active="1" severity="4" text="2804. Possible: Overflow in signed arithmetic tainted operation." />
-<Message guid="dataflow-2.0.0-2813" total="1" active="1" severity="4" text="2813. Suspicious: Dereference of NULL pointer." />
 <Message guid="dataflow-2.0.0-2822" total="2" active="2" severity="6" text="2822. Apparent: Arithmetic operation on NULL pointer." />
 <Message guid="dataflow-2.0.0-2823" total="1" active="1" severity="4" text="2823. Suspicious: Arithmetic operation on NULL pointer." />
 <Message guid="qac-12.0.0-3114" total="2" active="2" severity="5" text="3114. [U] Function '%s()' is implicitly of type 'int' but ends without returning a value." />
@@ -347,22 +343,20 @@
 </RuleGroup>
 </tree>
 <tree type="levels">
-<Level guid="QA_WARNING" total="3014" active="3014" name="Warnings" >
-<Component guid="dataflow-2.0.0" total="54" active="54" name="dataflow" >
+<Level guid="QA_WARNING" total="3009" active="3009" name="Warnings" >
+<Component guid="dataflow-2.0.0" total="49" active="49" name="dataflow" >
 <Message guid="dataflow-2.0.0-2669" total="2" active="2" severity="7" text="2669. Comparison of a pointer to an array and a pointer to a non-array." />
 <Message guid="dataflow-2.0.0-2706" total="1" active="1" severity="6" text="2706. Definite: Allocated memory is not deallocated (owning pointer: %1s)." />
 <Message guid="dataflow-2.0.0-2707" total="1" active="1" severity="5" text="2707. Apparent: Allocated memory is not deallocated (owning pointer: %1s)." />
 <Message guid="dataflow-2.0.0-2708" total="1" active="1" severity="3" text="2708. Suspicious: Allocated memory is not deallocated (owning pointer: %1s)." />
 <Message guid="dataflow-2.0.0-2721" total="4" active="4" severity="5" text="2721. Definite: Deallocation of non dynamic memory (owning pointer: %1s)." />
 <Message guid="dataflow-2.0.0-2804" total="1" active="1" severity="4" text="2804. Possible: Overflow in signed arithmetic tainted operation." />
-<Message guid="dataflow-2.0.0-2813" total="1" active="1" severity="4" text="2813. Suspicious: Dereference of NULL pointer." />
 <Message guid="dataflow-2.0.0-2822" total="2" active="2" severity="6" text="2822. Apparent: Arithmetic operation on NULL pointer." />
 <Message guid="dataflow-2.0.0-2823" total="1" active="1" severity="4" text="2823. Suspicious: Arithmetic operation on NULL pointer." />
-<Message guid="dataflow-2.0.0-2868" total="1" active="1" severity="2" text="2868. Suspicious: Using 0 as size parameter of a function call." />
 <Message guid="dataflow-2.0.0-2885" total="3" active="3" severity="2" text="2885. This function doesn't return to the caller despite not being declared as non-returning." />
-<Message guid="dataflow-2.0.0-2889" total="25" active="25" severity="2" text="2889. This function has more than one 'return' path." />
+<Message guid="dataflow-2.0.0-2889" total="23" active="23" severity="2" text="2889. This function has more than one 'return' path." />
 <Message guid="dataflow-2.0.0-2916" total="2" active="2" severity="5" text="2916. Definite: Storing the address of an object in a pointer that has greater lifetime." />
-<Message guid="dataflow-2.0.0-2963" total="5" active="5" severity="4" text="2963. Suspicious: Using value of uninitialized automatic object '%s'." />
+<Message guid="dataflow-2.0.0-2963" total="4" active="4" severity="4" text="2963. Suspicious: Using value of uninitialized automatic object '%s'." />
 <Message guid="dataflow-2.0.0-2966" total="1" active="1" severity="7" text="2966. Definite: Some members of object '%s' are uninitialized." />
 <Message guid="dataflow-2.0.0-2992" total="3" active="3" severity="6" text="2992. The value of this 'if' controlling expression is always 'false'." />
 </Component>
@@ -1256,8 +1250,8 @@
       <AnalysisSettings>C:/Users/MDSIT/Desktop/sample_VS19x86/prqa/configs/Initial/output/_SOURCE_ROOT/src/diff/diff3.c.qac.via</AnalysisSettings>
 <Json>C:/Users/MDSIT/Desktop/sample_VS19x86/prqa/configs/Initial/reports/data/6.json</Json>
 <tree type="rules">
-<RuleGroup name="ES95490-10_MISRA-C-2023" enabled="true" total="727" active="727" languages="C" >
-<Rule id="M3CM-3" enabled="true" total="205" active="205" text="MISRA Advisory" >
+<RuleGroup name="ES95490-10_MISRA-C-2023" enabled="true" total="726" active="726" languages="C" >
+<Rule id="M3CM-3" enabled="true" total="204" active="204" text="MISRA Advisory" >
 <Rule id="Rule-20.5" enabled="true" total="1" active="1" text="#undef should not be used" >
 <Message guid="qac-12.0.0-0841" total="1" active="1" severity="2" text="0841. Using '#undef'." />
 </Rule>
@@ -1271,8 +1265,8 @@
 <Rule id="Rule-17.8" enabled="true" total="2" active="2" text="A function parameter should not be modified" >
 <Message guid="qac-12.0.0-1338" total="2" active="2" severity="2" text="1338. The parameter '%1s' is being modified." />
 </Rule>
-<Rule id="Rule-15.5" enabled="true" total="4" active="4" text="A function should have a single point of exit at the end" >
-<Message guid="dataflow-2.0.0-2889" total="4" active="4" severity="2" text="2889. This function has more than one 'return' path." />
+<Rule id="Rule-15.5" enabled="true" total="3" active="3" text="A function should have a single point of exit at the end" >
+<Message guid="dataflow-2.0.0-2889" total="3" active="3" severity="2" text="2889. This function has more than one 'return' path." />
 </Rule>
 <Rule id="Rule-2.7" enabled="true" total="2" active="2" text="A function should not contain unused parameters" >
 <Message guid="qac-3206" total="2" active="2" severity="3" text="3206. The parameter '%1s' is not used in this function." />
@@ -1430,12 +1424,12 @@
 </RuleGroup>
 </tree>
 <tree type="levels">
-<Level guid="QA_WARNING" total="727" active="727" name="Warnings" >
-<Component guid="dataflow-2.0.0" total="8" active="8" name="dataflow" >
+<Level guid="QA_WARNING" total="726" active="726" name="Warnings" >
+<Component guid="dataflow-2.0.0" total="7" active="7" name="dataflow" >
 <Message guid="dataflow-2.0.0-2706" total="1" active="1" severity="6" text="2706. Definite: Allocated memory is not deallocated (owning pointer: %1s)." />
 <Message guid="dataflow-2.0.0-2804" total="1" active="1" severity="4" text="2804. Possible: Overflow in signed arithmetic tainted operation." />
 <Message guid="dataflow-2.0.0-2885" total="1" active="1" severity="2" text="2885. This function doesn't return to the caller despite not being declared as non-returning." />
-<Message guid="dataflow-2.0.0-2889" total="4" active="4" severity="2" text="2889. This function has more than one 'return' path." />
+<Message guid="dataflow-2.0.0-2889" total="3" active="3" severity="2" text="2889. This function has more than one 'return' path." />
 <Message guid="dataflow-2.0.0-2992" total="1" active="1" severity="6" text="2992. The value of this 'if' controlling expression is always 'false'." />
 </Component>
 <Component guid="dataflow" total="3" active="3" name="dataflow" >
@@ -1817,8 +1811,8 @@
       <AnalysisSettings>C:/Users/MDSIT/Desktop/sample_VS19x86/prqa/configs/Initial/output/_SOURCE_ROOT/src/diff/getopt.c.qac.via</AnalysisSettings>
 <Json>C:/Users/MDSIT/Desktop/sample_VS19x86/prqa/configs/Initial/reports/data/10.json</Json>
 <tree type="rules">
-<RuleGroup name="ES95490-10_MISRA-C-2023" enabled="true" total="163" active="163" languages="C" >
-<Rule id="M3CM-3" enabled="true" total="44" active="44" text="MISRA Advisory" >
+<RuleGroup name="ES95490-10_MISRA-C-2023" enabled="true" total="159" active="159" languages="C" >
+<Rule id="M3CM-3" enabled="true" total="43" active="43" text="MISRA Advisory" >
 <Rule id="Rule-20.1" enabled="true" total="1" active="1" text="#include directives should only be preceded by preprocessor directives or comments" >
 <Message guid="m3cm-6.0.0-5087" total="1" active="1" severity="4" text="5087. Use of #include directive after code fragment." />
 </Rule>
@@ -1828,9 +1822,6 @@
 </Rule>
 <Rule id="Rule-17.8" enabled="true" total="2" active="2" text="A function parameter should not be modified" >
 <Message guid="qac-12.0.0-1338" total="2" active="2" severity="2" text="1338. The parameter '%1s' is being modified." />
-</Rule>
-<Rule id="Rule-15.5" enabled="true" total="1" active="1" text="A function should have a single point of exit at the end" >
-<Message guid="dataflow-2.0.0-2889" total="1" active="1" severity="2" text="2889. This function has more than one 'return' path." />
 </Rule>
 <Rule id="Rule-8.13" enabled="true" total="4" active="4" text="A pointer should point to a const-qualified type whenever possible" >
 <Message guid="qac-12.0.0-3673" total="1" active="1" severity="2" text="3673. The object addressed by the pointer parameter '%1s' is not modified and so the pointer could be of type 'pointer to const'." />
@@ -1857,18 +1848,12 @@
 <Message guid="qac-12.0.0-3226" total="2" active="2" severity="3" text="3226. The result of an assignment is being used in an arithmetic operation or another assigning operation." />
 </Rule>
 </Rule>
-<Rule id="M3CM-1" enabled="true" total="5" active="5" text="MISRA Mandatory" >
+<Rule id="M3CM-1" enabled="true" total="3" active="3" text="MISRA Mandatory" >
 <Rule id="Rule-17.3" enabled="true" total="3" active="3" text="A function shall not be declared implicitly" >
 <Message guid="qac-3335" total="3" active="3" severity="4" text="3335. No function declaration. Implicit declaration inserted: 'extern int %1s();'." />
 </Rule>
-<Rule id="Rule-21.18" enabled="true" total="1" active="1" text="The size_t argument passed to any function in &lt;string.h&gt; shall have an appropriate value" >
-<Message guid="dataflow-2.0.0-2868" total="1" active="1" severity="2" text="2868. Suspicious: Using 0 as size parameter of a function call." />
 </Rule>
-<Rule id="Rule-9.1" enabled="true" total="1" active="1" text="The value of an object with automatic storage duration shall not be read before it has been set" >
-<Message guid="dataflow-2.0.0-2963" total="1" active="1" severity="4" text="2963. Suspicious: Using value of uninitialized automatic object '%s'." />
-</Rule>
-</Rule>
-<Rule id="M3CM-2" enabled="true" total="117" active="117" text="MISRA Required" >
+<Rule id="M3CM-2" enabled="true" total="116" active="116" text="MISRA Required" >
 <Rule id="Rule-8.4" enabled="true" total="7" active="7" text="A compatible declaration shall be visible when an object or function with external linkage is defined" >
 <Message guid="qac-12.0.0-3408" total="7" active="7" severity="2" text="3408. '%1s' has external linkage and is being defined without any previous declaration." />
 </Rule>
@@ -1933,22 +1918,15 @@
 <Rule id="Rule-17.7" enabled="true" total="7" active="7" text="The value returned by a function having non-void return type shall be used" >
 <Message guid="qac-12.0.0-3200" total="7" active="7" severity="2" text="3200. '%1s' returns a value which is not being used." />
 </Rule>
-<Rule id="Rule-1.3" enabled="true" total="4" active="4" text="There shall be no occurrence of undefined or critical unspecified behaviour" >
+<Rule id="Rule-1.3" enabled="true" total="3" active="3" text="There shall be no occurrence of undefined or critical unspecified behaviour" >
 <Message guid="qac-12.0.0-0602" total="2" active="2" severity="7" text="0602. [U] The identifier '%1s' is reserved for use by the library." />
 <Message guid="qac-12.0.0-1331" total="1" active="1" severity="4" text="1331. Type or number of arguments doesn't match previous use of the function." />
-<Message guid="dataflow-2.0.0-2813" total="1" active="1" severity="4" text="2813. Suspicious: Dereference of NULL pointer." />
 </Rule>
 </Rule>
 </RuleGroup>
 </tree>
 <tree type="levels">
-<Level guid="QA_WARNING" total="163" active="163" name="Warnings" >
-<Component guid="dataflow-2.0.0" total="4" active="4" name="dataflow" >
-<Message guid="dataflow-2.0.0-2813" total="1" active="1" severity="4" text="2813. Suspicious: Dereference of NULL pointer." />
-<Message guid="dataflow-2.0.0-2868" total="1" active="1" severity="2" text="2868. Suspicious: Using 0 as size parameter of a function call." />
-<Message guid="dataflow-2.0.0-2889" total="1" active="1" severity="2" text="2889. This function has more than one 'return' path." />
-<Message guid="dataflow-2.0.0-2963" total="1" active="1" severity="4" text="2963. Suspicious: Using value of uninitialized automatic object '%s'." />
-</Component>
+<Level guid="QA_WARNING" total="159" active="159" name="Warnings" >
 <Component guid="m3cm-6.0.0" total="9" active="9" name="m3cm" >
 <Message guid="m3cm-6.0.0-5087" total="1" active="1" severity="4" text="5087. Use of #include directive after code fragment." />
 <Message guid="m3cm-6.0.0-5124" total="7" active="7" severity="6" text="5124. The Standard Library input/output functions shall not be used" />

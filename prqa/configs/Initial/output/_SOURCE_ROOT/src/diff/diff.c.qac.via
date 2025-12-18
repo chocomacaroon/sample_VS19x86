@@ -438,6 +438,8 @@ ${HELIX_QAC_SOURCE_ROOT}\src\diff\diff.c
 -warncall srand=m3cm_5143
 -warnmacroexpansion rand=m3cm_5143
 -warnmacroexpansion srand=m3cm_5143
+* ===[ ACF FILE CONTENT ]===
+-rem "No Preset Selected"
 * ===[ ACTIVE MESSAGES ]===
 -o 0160
 -o 0161

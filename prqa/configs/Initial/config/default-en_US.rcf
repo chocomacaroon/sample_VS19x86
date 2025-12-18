@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rcf name="Helix QAC All (English),default,qac-qacpp-rcma-mta-namecheck,MISRA C:2012" version="5.0.0">
+<rcf name="Helix QAC All (English),MISRA C:2012" version="5.0.0">
   <rulegroup name="ES95490-10_MISRA-C-2023">
     <rule id="CMN-0" active="no" help="m3cm-6.0.0-rule_help-en_US\rules\m3cm.CMGroup.1.html">
       <text>Common</text>
