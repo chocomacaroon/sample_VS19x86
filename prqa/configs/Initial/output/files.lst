@@ -1,0 +1,16 @@
+﻿-op C:\Users\MDSIT\Desktop\sample_VS19x86\prqa\configs\Initial\output\_SOURCE_ROOT\src\diff
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\alloca.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\context.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\dir.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\ecu.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\ed.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\getopt.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\getopt1.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\ifdef.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\io.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\normal.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\version.c
