@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<acf xmlversion="2.0.0">
-  <components>
-    <component version="latest" target="C" name="qac"/>
-    <component version="latest" target="C++" name="qacpp"/>
-  </components>
-</acf>

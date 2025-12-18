@@ -1,8 +1,0 @@
-{
-"file": "C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/hdr/sys/stat.h",
-"entities": [
-{"type": "class",
-"name": "stat",
-"line": 5,
-"metrics": {"STM29": "2"}}]
-}

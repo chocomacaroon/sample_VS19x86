@@ -1,8 +1,0 @@
-{
-"file": "C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/hdr/sys/dir.h",
-"entities": [
-{"type": "class",
-"name": "direct",
-"line": 9,
-"metrics": {"STCB1": "0", "STCB2": "0", "STCBO": "0", "STLCM": "0", "STNOC": "0", "STRFC": "0", "STWMC": "0"}}]
-}

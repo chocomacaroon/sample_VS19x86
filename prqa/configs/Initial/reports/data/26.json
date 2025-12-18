@@ -1,9 +1,0 @@
-{
-"file": "C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/version.c",
-"includes": [
-{"path": "C:/Users/MDSIT/Desktop/sample_VS19x86/prqa/configs/Initial/config/DATA/MS_VS_2019_x86_C/Stub/forceinclude/limits_fi.h", "line": 0, "is_system": false},
-{"path": "C:/Users/MDSIT/Desktop/sample_VS19x86/prqa/configs/Initial/config/DATA/MS_VS_2019_x86_C/Stub/forceinclude/pragma_fi.h", "line": 0, "is_system": false},
-{"path": "C:/Users/MDSIT/Desktop/sample_VS19x86/prqa/configs/Initial/config/DATA/MS_VS_2019_x86_C/Stub/forceinclude/restrict_fi.h", "line": 0, "is_system": false},
-{"path": "C:/Users/MDSIT/Desktop/sample_VS19x86/prqa/configs/Initial/config/DATA/MS_VS_2019_x86_C/Stub/forceinclude/stdint_fi.h", "line": 0, "is_system": false}],
-"metrics": {"COMF": "0.000", "STBME": "0.003", "STBMO": "0.005", "STBMS": "0.004", "STBUG": "0", "STCDN": "0.000", "STDEV": "0.008", "STDIF": "3.262", "STECT": "1", "STEFF": "51", "STFCO": "0", "STFNC": "0", "STHAL": "10", "STM20": "2", "STM21": "4", "STM22": "1", "STM28": "0", "STM33": "0", "STOPN": "2", "STOPT": "4", "STSCT": "0", "STSHN": "29", "STTDE": "0.405", "STTDO": "0.343", "STTDS": "0.377", "STTLN": "1", "STTOT": "6", "STTPP": "3", "STVAR": "1", "STVOL": "16", "STZIP": "14", "VOCF": "1.000"}
-}
