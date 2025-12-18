@@ -1,1 +1,1 @@
-"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\devenv.com" ".\src\sample_VS19x86.sln" /rebuild
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\devenv.com" ".\src\sample_cgicc_diff-VS2019.sln" /rebuild
