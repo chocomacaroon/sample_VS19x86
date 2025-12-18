@@ -356,8 +356,8 @@ main (argc, argv)
       prev = c;
     }
 
- // if (optind != argc - 2)
- //   usage ();
+  //if (optind != argc - 2)
+  //  usage ();
 
  // if (ignore_regexp)
  //   {
@@ -381,8 +381,8 @@ main (argc, argv)
  //     function_regexp_compiled.fastmap = (char *) xmalloc (256);
  //   }
 
-  if (output_style != OUTPUT_CONTEXT && output_style != OUTPUT_UNIFIED)
-    context = 0;
+  //if (output_style != OUTPUT_CONTEXT && output_style != OUTPUT_UNIFIED)
+  //  context = 0;
   //else if (context == -1)
   //  /* Default amount of context for -c.  */
   //  context = 3;

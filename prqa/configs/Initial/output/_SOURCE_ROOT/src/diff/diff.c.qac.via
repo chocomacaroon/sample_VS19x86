@@ -63,11 +63,19 @@ ${HELIX_QAC_SOURCE_ROOT}\src\diff\diff.c
 * ===[ PROJECT INCLUDES ]===
 -i ${HELIX_QAC_SOURCE_ROOT}\src\diff\hdr
 -i ${HELIX_QAC_SOURCE_ROOT}\src
+-i "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include"
+-i "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include"
+-i "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Auxiliary\VS\include"
+-i "C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt"
+-i "C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um"
+-i "C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared"
+-i "C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt"
+-i "C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt"
 * ===[ PROJECT DEFINES ]===
 -d "WIN32"
 -d "_DEBUG"
 -d "_LIB"
--d "__MSVC_RUNTIME_CHECKS"
+-d "CODE_ANALYSIS"
 * ===[ PROJECT OPTIONS ]===
 * ===[ CCT FILE CONTENT (MS_VS_2019_x86_C.cct) ]===
 *{

@@ -6,7 +6,7 @@
 {"path": "C:/Users/MDSIT/Desktop/sample_VS19x86/prqa/configs/Initial/config/DATA/MS_VS_2019_x86_C/Stub/forceinclude/restrict_fi.h", "line": 0, "is_system": false},
 {"path": "C:/Users/MDSIT/Desktop/sample_VS19x86/prqa/configs/Initial/config/DATA/MS_VS_2019_x86_C/Stub/forceinclude/stdint_fi.h", "line": 0, "is_system": false},
 {"path": "C:/Users/MDSIT/Desktop/sample_VS19x86/src/diff/hdr/diff.h", "line": 24, "is_system": false}],
-"metrics": {"COMF": "0.298", "STBME": "3.278", "STBMO": "2.211", "STBMS": "2.749", "STBUG": "11", "STCDN": "0.745", "STDEV": "202.422", "STDIF": "33.335", "STECT": "8", "STEFF": "1214535", "STFCO": "52", "STFNC": "8", "STHAL": "4128", "STM20": "1487", "STM21": "2589", "STM22": "289", "STM28": "86", "STM33": "78", "STOPN": "434", "STOPT": "56", "STSCT": "10", "STSHN": "16007", "STTDE": "3.656", "STTDO": "3.380", "STTDS": "3.562", "STTLN": "571", "STTOT": "4077", "STTPP": "925", "STVAR": "149", "STVOL": "36435", "STZIP": "3318", "VOCF": "8.318"},
+"metrics": {"COMF": "0.298", "STBME": "3.278", "STBMO": "2.211", "STBMS": "2.749", "STBUG": "11", "STCDN": "0.744", "STDEV": "203.019", "STDIF": "33.384", "STECT": "8", "STEFF": "1218112", "STFCO": "52", "STFNC": "8", "STHAL": "4128", "STM20": "1487", "STM21": "2595", "STM22": "289", "STM28": "86", "STM33": "78", "STOPN": "434", "STOPT": "56", "STSCT": "10", "STSHN": "16007", "STTDE": "3.656", "STTDO": "3.380", "STTDS": "3.562", "STTLN": "571", "STTOT": "4083", "STTPP": "925", "STVAR": "149", "STVOL": "36488", "STZIP": "3318", "VOCF": "8.331"},
 "entities": [
 {"type": "function",
 "name": "add_change(int, int, int, int, change*)",
@@ -272,7 +272,7 @@
 {"type": "function",
 "name": "diag(int, int, int, int, int*)",
 "line": 74,
-"metrics": {"NPATH": "60781105", "STAKI": "27", "STAV1": "7.938", "STAV2": "9.260", "STAV3": "14.339", "STBAK": "0", "STCAL": "0", "STCYC": "27", "STELF": "0", "STFDN": "92", "STFDT": "34", "STFN1": "551", "STFN2": "338", "STGTO": "0", "STKDN": "0.070", "STKNT": "6", "STLCT": "34", "STLIN": "152", "STLOP": "16", "STM07": "19", "STM19": "4", "STM29": "1", "STMCC": "16 (27:43)", "STMIF": "7", "STPAR": "5", "STPBG": "5", "STPDN": "1092.163", "STPTH": "93926", "STRET": "4", "STST1": "112", "STST2": "96", "STST3": "62", "STSUB": "0", "STUNR": "0", "STUNV": "0", "STXLN": "86"},
+"metrics": {"NPATH": "60781105", "STAKI": "27", "STAV1": "7.991", "STAV2": "9.323", "STAV3": "14.435", "STBAK": "0", "STCAL": "0", "STCYC": "27", "STELF": "0", "STFDN": "92", "STFDT": "34", "STFN1": "557", "STFN2": "338", "STGTO": "0", "STKDN": "0.070", "STKNT": "6", "STLCT": "34", "STLIN": "152", "STLOP": "16", "STM07": "19", "STM19": "4", "STM29": "1", "STMCC": "16 (27:43)", "STMIF": "7", "STPAR": "5", "STPBG": "5", "STPDN": "1092.163", "STPTH": "93926", "STRET": "4", "STST1": "112", "STST2": "96", "STST3": "62", "STSUB": "0", "STUNR": "0", "STUNV": "0", "STXLN": "86"},
 "relationships": [
 {"type": "REFERS_TO",
 "entity": "heuristic",
