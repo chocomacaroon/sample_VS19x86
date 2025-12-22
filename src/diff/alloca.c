@@ -1,3 +1,4 @@
+int a;
 /*
         alloca -- (mostly) portable public-domain implementation -- D A Gwyn
 
