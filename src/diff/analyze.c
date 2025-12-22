@@ -111,7 +111,6 @@ diag (xoff, xlim, yoff, ylim, cost)
 	  oldx = x;
 	  y = x - d;
 	  while ((x < xlim) && (y < ylim) && (xv[x] == yv[y]))
-	  //while (x < xlim && y < ylim && xv[x] == yv[y])
 	    ++x, ++y;
 	  if (x - oldx > 20) 
 	    big_snake = 1;

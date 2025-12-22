@@ -4,19 +4,19 @@ C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\hdr\diff.h(26,39): warning C4273:
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(2431,86): message : 'fdopen'의 이전 정의를 참조하십시오.
 C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\hdr\diff.h(71,22): warning C4273: '_errno': dll 연결이 일치하지 않습니다.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\errno.h(23,27): message : '_errno'의 이전 정의를 참조하십시오.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(277,10): warning C4013: 'abort'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(333,9): warning C4013: 'bzero'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(337,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(339,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(374,20): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(402,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(411,17): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(422,14): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(442,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(455,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(473,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(738,23): warning C4013: 'read_files'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(748,16): warning C4013: 'bcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(276,10): warning C4013: 'abort'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(332,9): warning C4013: 'bzero'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(336,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(338,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(373,20): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(401,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(410,17): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(421,14): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(441,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(454,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(472,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(737,23): warning C4013: 'read_files'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\analyze.c(747,16): warning C4013: 'bcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   context.c
 C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\hdr\diff.h(26,39): warning C4273: 'fdopen': dll 연결이 일치하지 않습니다.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(2431,86): message : 'fdopen'의 이전 정의를 참조하십시오.
@@ -146,8 +146,8 @@ C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(578,27): warning C4013: 'm
 C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(597,28): warning C4013: 'realloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   version.c
   코드를 생성하고 있습니다...
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1689): warning C4716: 'perror_with_exit': 값을 반환해야 합니다.
 C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1682): warning C4716: 'fatal': 값을 반환해야 합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1689): warning C4716: 'perror_with_exit': 값을 반환해야 합니다.
 C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(405): warning C4716: 'usage': 값을 반환해야 합니다.
 C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(414): warning C4716: 'specify_style': 값을 반환해야 합니다.
   ecu.c
