@@ -107,7 +107,7 @@ diag (xoff, xlim, yoff, ylim, cost)
 	  if (tlo >= thi)
 	    x = tlo + 1;
 	  else  
-	    x = thi; 
+	    x = thi;  
 	  oldx = x;
 	  y = x - d;
 	  while ((x < xlim) && (y < ylim) && (xv[x] == yv[y]))
