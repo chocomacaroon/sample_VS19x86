@@ -35,17 +35,17 @@ C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(56,22): warning C4013: 'st
 C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(63,14): warning C4013: 'strcat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
 C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(208,23): warning C4013: 'atoi'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
 C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(214,18): warning C4013: 'specify_style'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(354,10): warning C4013: 'usage'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(392,23): warning C4013: 'compare_files'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(399,8): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(471,13): warning C4013: 'bzero'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(480,13): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(481,15): warning C4013: 'stat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(482,16): warning C4013: 'fstat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(530,23): warning C4013: 'open'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(564,20): warning C4013: 'diff_dirs'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(610,25): warning C4013: 'diff_2_files'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(659,11): warning C4013: 'close'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(353,10): warning C4013: 'usage'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(391,23): warning C4013: 'compare_files'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(398,8): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(470,13): warning C4013: 'bzero'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(479,13): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(480,15): warning C4013: 'stat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(481,16): warning C4013: 'fstat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(529,23): warning C4013: 'open'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(563,20): warning C4013: 'diff_dirs'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(609,25): warning C4013: 'diff_2_files'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(658,11): warning C4013: 'close'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   diff3.c
 C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(262,22): warning C4013: 'getopt'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
 C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(326,20): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
@@ -146,10 +146,10 @@ C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(578,27): warning C4013: 'm
 C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(597,28): warning C4013: 'realloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   version.c
   코드를 생성하고 있습니다...
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1682): warning C4716: 'fatal': 값을 반환해야 합니다.
 C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1689): warning C4716: 'perror_with_exit': 값을 반환해야 합니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(405): warning C4716: 'usage': 값을 반환해야 합니다.
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(414): warning C4716: 'specify_style': 값을 반환해야 합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1682): warning C4716: 'fatal': 값을 반환해야 합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(404): warning C4716: 'usage': 값을 반환해야 합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(413): warning C4716: 'specify_style': 값을 반환해야 합니다.
   ecu.c
 diff3.obj : warning LNK4006: _xmalloc이(가) util.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
 diff3.obj : warning LNK4006: _xrealloc이(가) util.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.

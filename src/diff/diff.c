@@ -349,7 +349,6 @@ main (argc, argv)
 	  ignore_all_space_flag = 1;
 	  length_varies = 1;
 	  break;
-
 	default:
 	  usage ();
 	}
