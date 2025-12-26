@@ -103,14 +103,16 @@ diag (xoff, xlim, yoff, ylim, cost)
       for (d = fmax; d >= fmin; d -= 2)
 	{
 	  int x, y, oldx, tlo = fd[d - 1], thi = fd[d + 1];
-
 	  if (tlo >= thi)
 	    x = tlo + 1;
 	  else  
 	    x = thi;  
 	  oldx = x;
 	  y = x - d;
-	  while ((x < xlim && y < ylim) && (xv[x] == yv[y]))
+	  if (xlim > 256) xlim = 256;
+	  if (ylim > 256) ylim = 256;
+	  //while ((x < xlim && y < ylim) && xv[x] == yv[y]) 
+	  while (((x < xlim) && (y < ylim)) && (xv[x] == yv[y])) 
 	    ++x, ++y;
 	  if (x - oldx > 20) 
 	    big_snake = 1;
