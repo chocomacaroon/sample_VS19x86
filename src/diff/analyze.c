@@ -122,7 +122,7 @@ diag (xoff, xlim, yoff, ylim, cost)
 	      *cost = 2 * c - 1;
 	      return d;
 	    }
-	}
+	} 
 
       /* Similar extend the bottom-up search. */
       bmin > dmin ? bd[--bmin - 1] = INT_MAX : ++bmin;
