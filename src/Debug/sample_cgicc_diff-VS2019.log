@@ -146,8 +146,8 @@ C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(578,27): warning C4013: 'm
 C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\util.c(597,28): warning C4013: 'realloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   version.c
   코드를 생성하고 있습니다...
-C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1689): warning C4716: 'perror_with_exit': 값을 반환해야 합니다.
 C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1682): warning C4716: 'fatal': 값을 반환해야 합니다.
+C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff3.c(1689): warning C4716: 'perror_with_exit': 값을 반환해야 합니다.
 C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(413): warning C4716: 'specify_style': 값을 반환해야 합니다.
 C:\Users\MDSIT\Desktop\sample_VS19x86\src\diff\diff.c(404): warning C4716: 'usage': 값을 반환해야 합니다.
   ecu.c
