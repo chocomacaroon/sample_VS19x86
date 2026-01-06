@@ -18,7 +18,7 @@ int x;
         improved efficiency; however, the defaults should be okay.
 
         The general concept of this implementation is to keep
-        track of all alloca()-allocated blocks, and reclaim any
+        track of all alloca()-allocated blocks, and reclaim any 
         that are found to be deeper in the stack than the current
         invocation.  This heuristic does not reclaim storage as
         soon as it becomes invalid, but it will do so eventually.
