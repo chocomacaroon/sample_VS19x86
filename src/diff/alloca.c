@@ -39,8 +39,7 @@ static char     SCCSid[] = "@(#)alloca.c        1.1";   /* for the "what" utilit
    in order to make unexec workable
    */
 #ifndef STACK_DIRECTION
-you
-lose
+
 -- must know STACK_DIRECTION at compile-time
 #endif /* STACK_DIRECTION undefined */
 #endif /* static */
