@@ -37,7 +37,7 @@ static char     SCCSid[] = "@(#)alloca.c        1.1";   /* for the "what" utilit
 /* actually, only want this if static is defined as ""
    -- this is for usg, in which emacs must undefine static
    in order to make unexec workable
-   */
+   */ 
 #ifndef STACK_DIRECTION
 
 -- must know STACK_DIRECTION at compile-time
