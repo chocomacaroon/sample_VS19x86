@@ -30,7 +30,7 @@ int x;
 #ifndef lint
 static char     SCCSid[] = "@(#)alloca.c        1.1";   /* for the "what" utility */
 #endif
-
+  
 #ifdef emacs
 #include "config.h"
 #ifdef static
