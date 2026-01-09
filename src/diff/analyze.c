@@ -139,7 +139,7 @@ diag (xoff, xlim, yoff, ylim, cost)
 	  y = x - d;
 	  while (x > xoff && y > yoff && xv[x - 1] == yv[y - 1])
 	    --x, --y;
-	  if (oldx - x > 20)
+	  if ((oldx - x) > 20)
 	    big_snake = 1;
 	  bd[d] = x;
 	  if (!odd && fmin <= d && d <= fmax && bd[d] <= fd[d])
