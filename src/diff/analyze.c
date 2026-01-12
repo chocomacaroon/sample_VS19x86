@@ -20,7 +20,7 @@ the Free Software Foundation, 675 Mass Ave, Cambridge, MA 02139, USA.  */
 /* The basic algorithm is described in: 
    "An O(ND) Difference Algorithm and its Variations", Eugene Myers,
    Algorithmica Vol. 1 No. 2, 1986, p 251.  */
-
+int x;  
 #include "diff.h"
 
 struct change *find_change ();
@@ -111,8 +111,8 @@ diag (xoff, xlim, yoff, ylim, cost)
 	  y = x - d;
 	  if (xlim > 256) xlim = 256;
 	  if (ylim > 256) ylim = 256;
-	  //while ((x < xlim && y < ylim) && xv[x] == yv[y]) 
-	  while (((x < xlim) && (y < ylim)) && (xv[x] == yv[y])) 
+	  while ((x < xlim && y < ylim) && xv[x] == yv[y]) // before
+	  // while (((x < xlim) && (y < ylim)) && (xv[x] == yv[y])) // after
 	    ++x, ++y;
 	  if (x - oldx > 20) 
 	    big_snake = 1;
