@@ -108,7 +108,7 @@ diag (xoff, xlim, yoff, ylim, cost)
 	  else  
 	    x = thi;  
 	  oldx = x;
-	  y = x - d;
+	  y = x - d; 
 	  if (xlim > 256) xlim = 256;
 	  if (ylim > 256) ylim = 256;
 	  while ((x < xlim && y < ylim) && xv[x] == yv[y]) // before
